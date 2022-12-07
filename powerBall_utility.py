@@ -47,3 +47,4 @@ class Lucky_numbers(Win_number):
         self.power2 = power2
         print(Fore.LIGHTYELLOW_EX, power2, Fore.RESET, end=" ")
 
+

@@ -50,3 +50,4 @@ class Grade(Lucky_numbers):
         else:
             print(Fore.RED, "Try Again", Fore.RESET)
 
+

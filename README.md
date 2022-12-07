@@ -18,7 +18,7 @@ it should be ascending order
 powerball number is a random number drawn from 10 numbers
 from 1 to 10.
 ***
->***KEY WORDS:***
+>***KEY-WORDS:***
 >>Win_number == Winner class name
 > 
 >>Lucky_numbers==Lucky class name
